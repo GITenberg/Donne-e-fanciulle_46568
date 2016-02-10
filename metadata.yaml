@@ -1,0 +1,29 @@
+_repo: Donne-e-fanciulle_46568
+covers:
+- cover_type: archival
+  image_path: 46568/46568-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Zùccoli, Luciano
+    aliases:
+    - Zuccoli, Luciano
+    - Ingenheim, Luciano, conte di
+    birthdate: 1868
+    deathdate: 1929
+    gutenberg_agent_id: '31846'
+    url: http://www.gutenberg.org/2009/agents/31846
+    wikipedia: http://it.wikipedia.org/wiki/Luciano_Zuccoli
+description: ''
+gutenberg_bookshelf: IT Racconti
+gutenberg_issued: '2014-08-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46568'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Donne e fanciulle
+url: http://www.gutenberg.org/ebooks/46568
